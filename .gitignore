@@ -1,0 +1,6 @@
+target/
+*.log
+*.deb
+.idea/
+.vscode/
+.DS_Store
