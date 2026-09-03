@@ -8,7 +8,7 @@ import pages.HomePage;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @ExtendWith(SerenityJUnit5Extension.class)
-public class UrlValidationTest {
+public class JacobsHomepageTest {
 
     HomePage homePage;
 
